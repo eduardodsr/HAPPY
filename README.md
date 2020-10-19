@@ -1,14 +1,10 @@
 # HAPPY
  NLW#3 ROCKETSEAT 🚀
  
- <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" style="background= '#000'" src="./.github/map-marker.svg" />
-</h1>
-
 
 ## 💻 Sobre o projeto
 
-:rocket: Happy - É uma forma de encontrar instutuições de orfanato.
+:rocket: HAPPY - Projeto do NWL#3 (ROCKETSEAT). Ele consiste em criar uma aplicação web para cadastro de orfanatos, ou seja, é uma forma de encontrar instutuições de orfanato
 
 
 ### Web
@@ -31,21 +27,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript][typescript]
 
 
-## 🚀 Como rodar este projeto
+##  Projeto 🚀
 
-Podemos considerar este projeto como sendo divido em três partes:
+O projeto está divido em três partes:
 1. Back End (pasta backend) 
 2. Front End (pasta web)
 3. Mobile (pasta mobile)
 
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
+## OBS: 
+
+Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar. 💡
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com)
-[Node.js][nodejs]. 
-[VSCode][vscode]
+[Node.js](nodejs). 
+[VSCode](vscode)
 
 ### 🎲 Rodando o Back End (servidor)
 

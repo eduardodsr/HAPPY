@@ -162,11 +162,11 @@ Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+- Expo
+- Node.js
+- React JS
+- React Native
+- TypeScript
 
 
 ### Pré-requisitos
@@ -359,38 +359,6 @@ $ cd mobile
 $ yarn start
 ``` -->
 
-### Issues 🐛
-
-#### Report
-
-In case you are having any problem do not be shy to report to us in [Issues][issues-url] session.
-
-### Contributing 🤝 
-
-There are many forms to contribute with the project, first of all you can give this github repo a Star.
-
-If you want do help with the code follow the steps bellow
-
-```ps
-# Fork using GitHub official command line
-# If you don't have the GitHub CLI, use the web site to do that.
-$ gh repo fork pmqueiroz/happy
-
-# Clone your fork
-$ git clone {your-fork-url}
-$ cd happy
-
-# Create a branch with your feature
-$ git checkout -b {branch-name}
-
-# Make the commit with your changes
-$ git commit -m 'Feat: {feature-name}'
-
-# Send the code to your remote branch
-$ git push origin {branch-name}
-```
-
-Then send a Pull Request that will be analyzed and approved if it helps with the project
 
 ### License 📝
 

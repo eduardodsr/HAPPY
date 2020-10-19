@@ -1,13 +1,10 @@
 # HAPPY
- NLW#3 ROCKETSEAT
+ NLW#3 ROCKETSEAT 🚀
  
  <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" style="background= '#000'" src="./.github/map-marker.svg" />
 </h1>
 
-<h4 align="center"> 
-	NextLevelWeek 1.0 🚀
-</h4>
 
 ## 💻 Sobre o projeto
 
@@ -16,30 +13,11 @@
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
- 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/home.png" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/map.png" width="400px">
-  
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/cadastro-web.png" width="400px">
-  
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/cadastro-web-2.png" width="400px">
-  
-</p>
+- Em Desenvolvimento.
 
 ### Mobile
 
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/home-mobile.png" height="500px" >
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/map-mobile.png" height="500px" >
-  
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/cadastro-mobile-1.png" height="500px" >
-  
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/cadastro-mobile-2.png" height="500px" >
-  
-</p>
+- Em Desenvolvimento.
 
 
 ## 🛠 Tecnologias
@@ -65,8 +43,9 @@ Podemos considerar este projeto como sendo divido em três partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+[Git](https://git-scm.com)
+[Node.js][nodejs]. 
+[VSCode][vscode]
 
 ### 🎲 Rodando o Back End (servidor)
 
@@ -110,10 +89,6 @@ $ npm start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-## OBS:
-
-Para rodar o mapa será necessário criar um arquivo .env e nele usar a variavel REACT_APP_MAPBOX_TOKEN e aribuir nela o valor do token, que é
-adquirido na sessão de conta do mapbox
 
 ### 📱Rodando a aplicação mobile 
 

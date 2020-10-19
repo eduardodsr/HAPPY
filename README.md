@@ -2,7 +2,7 @@
  NLW#3 ROCKETSEAT 🚀
  
 
-##  Projeto HAPPY - Projeto do NWL#3 (Next Level Week #3 da ROCKETSEAT) 💻
+##  NWL#3 (Next Level Week #3 da ROCKETSEAT) 💻
 
 :rocket: . O projeto Happy consiste em criar uma aplicação web para cadastro de orfanatos.
 
@@ -32,10 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com)
-[Node.js](nodejs). 
-[VSCode](vscode)
+
 
 ### 🎲 Rodando o Back End (servidor)
 

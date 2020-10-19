@@ -1,7 +1,7 @@
 # HAPPY -  NLW#3 ROCKETSEAT 🚀
 
 
-# Create React App [![Build Status]
+## Create React App
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 

@@ -2,29 +2,9 @@
  NLW#3 ROCKETSEAT 🚀
  
 
-## 💻 Sobre o projeto
+##  Projeto HAPPY - Projeto do NWL#3 (Next Level Week #3 da ROCKETSEAT) 💻
 
-:rocket: HAPPY - Projeto do NWL#3 (ROCKETSEAT). Ele consiste em criar uma aplicação web para cadastro de orfanatos, ou seja, é uma forma de encontrar instutuições de orfanato
-
-
-### Web
-
-- Em Desenvolvimento.
-
-### Mobile
-
-- Em Desenvolvimento.
-
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+:rocket: . O projeto Happy consiste em criar uma aplicação web para cadastro de orfanatos.
 
 
 ##  Projeto 🚀
@@ -37,6 +17,18 @@ O projeto está divido em três partes:
 ## OBS: 
 
 Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar. 💡
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo][expo]
+- [Node.js][nodejs]
+- [React][reactjs]
+- [React Native][rn]
+- [TypeScript][typescript]
+
 
 ### Pré-requisitos
 

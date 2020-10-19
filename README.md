@@ -132,7 +132,7 @@ Your app is ready to be deployed.
 
 You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
 
-## License
+## License 📝
 
 Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
 
@@ -237,13 +237,7 @@ $ npm start
 ```
 
 
-
-#### Requirements
-* [Node.js][node-url]
-* [Yarn][yarn-url] or [npm][npm-url]
-* [Expo][expo-url]
-
-##### Web
+### Web
 
 This project use third party dependencies that need to be installed, use that command to install all needed dependencies
 

@@ -1,8 +1,7 @@
-# HAPPY
- NLW#3 ROCKETSEAT 🚀
+# HAPPY -  NLW#3 ROCKETSEAT 🚀
  
 
-##  NWL#3 (Next Level Week #3 da ROCKETSEAT) 💻
+##  NWL#3 (Next Level Week #3 da ROCKETSEAT)
 
 :rocket: . O projeto Happy consiste em criar uma aplicação web para cadastro de orfanatos.
 
@@ -260,4 +259,5 @@ $ git push origin {branch-name}
 Then send a Pull Request that will be analyzed and approved if it helps with the project
 
 ### License 📝
+
 This project is under the MIT license. See the [LICENSE][license-url] for more information.

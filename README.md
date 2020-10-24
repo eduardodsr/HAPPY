@@ -1,4 +1,4 @@
-# HAPPY -  NLW#3 ROCKETSEAT 🚀
+# HAPPY - Rocketseat 🚀
 
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/HAPPY)
@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/HAPPY)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.HAPPY)
 
-##  NWL#3 (Next Level Week #3 da ROCKETSEAT)
+##  NWL#3 (Next Level Week #3)
 
 <p align="center">
   <a href="https://rocketseat.com.br">

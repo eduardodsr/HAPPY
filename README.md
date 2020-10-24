@@ -5,14 +5,15 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/HAPPY)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/HAPPY)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.HAPPY)
-![Rockeseat](https://img.shields.io/badge/made%20by-Rocketseat-7519C1)](https://rocketseat.com.br/)
+![Rockeseat](https://img.shields.io/badge/made%20by-Rocketseat-7519C1)]
 
-
+/*
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7519C1">
   </a>
 </p>
+*/
 
 O projeto Happy consiste em criar uma aplicação web para cadastro de orfanatos. :rocket:
 

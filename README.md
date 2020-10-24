@@ -359,7 +359,3 @@ $ cd mobile
 $ yarn start
 ``` -->
 
-
-### License 📝
-
-This project is under the MIT license. See the [LICENSE][license-url] for more information.

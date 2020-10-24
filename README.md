@@ -82,6 +82,10 @@ $ npm start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
+ <p align="center">
+  <img src=https://i.imgur.com/ZW74CQq.png?raw=true" alt="imagem" width="600px" />
+ </p>
+
 
 ### 📱 Rodando a aplicação mobile 
 

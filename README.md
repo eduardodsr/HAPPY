@@ -6,9 +6,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/HAPPY)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.HAPPY)
 
-
 <p align="center">
- <h2> NWL#3 (Next Level Week #3) </h2> 
+ <h2> NWL#3 (Next Level Week #3) 
+ </h2> 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7519C1">
   </a>

@@ -83,7 +83,8 @@ $ npm start
 ```
 
  <p align="center">
-  <img src=https://i.imgur.com/ZW74CQq.png?raw=true" alt="imagem" width="600px" />
+  <img src=https://i.imgur.com/ZW74CQq.png?raw=true" alt="imagem" width="800px" />
+  <img src=https://i.imgur.com/0jKv0RM.png?raw=true" alt="imagem" width="800px" />                                                                             
  </p>
 
 

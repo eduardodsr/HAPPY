@@ -109,7 +109,7 @@ $ npm start
 ```
 
 
-### 🌐 Web
+### 🌐 Web (Yarn)
 
 This project use third party dependencies that need to be installed, use that command to install all needed dependencies
 
